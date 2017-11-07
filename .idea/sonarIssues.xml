@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/groupapi-meishi-poi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/meishi-api-dsl/gencode/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/meishi-api-dsl/gencode/src/main/java/com/meituan/gencode/ProcessorWithProperty.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/meishi-api-dsl/template-code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cglib-class/com/lixuelin/cglib/UserServiceImpl$$EnhancerByCGLIB$$e6a99d9a$$FastClassByCGLIB$$c5fe0860.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cglib-class/com/lixuelin/cglib/UserServiceImpl$$EnhancerByCGLIB$$e6a99d9a.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cglib-class/com/lixuelin/cglib/UserServiceImpl$$FastClassByCGLIB$$cbe603a2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/proxy-pattern.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/cglib/MyMethodInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/cglib/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/proxy/ISubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/proxy/MyHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/proxy/MyMethodInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/proxy/MySubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/lixuelin/proxy/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/my/study/proxy/ISubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/my/study/proxy/MyHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/my/study/proxy/MyMethodInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/my/study/proxy/MySubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/my/study/proxy/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/com/lixuelin/cglib/MyMethodInterceptor.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
